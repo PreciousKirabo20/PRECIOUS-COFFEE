@@ -1,0 +1,3 @@
+Precious coffee is a coffee shop that sells one of the best coffee in Uganda. There is chocolate coffee, red coffee and so on.
+The purpose of the website is to give a clear view of how one can access it, who to contact, the menu that is to say all the kinds of coffee available.
+It also includes our coffee blog where various customers leave reviews on what the coffee tasted like and the whole place in general.
